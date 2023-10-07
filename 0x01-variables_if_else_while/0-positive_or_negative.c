@@ -2,7 +2,7 @@
 #include <time.h>
 #include<stdio.h>
 /**
- * Main - main entry
+ * main - main entry
  * Return: always return a 0 (success)
  * betty style doc for function main goes there
 */
