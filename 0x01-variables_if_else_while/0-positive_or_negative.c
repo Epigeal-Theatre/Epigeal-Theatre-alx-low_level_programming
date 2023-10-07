@@ -2,7 +2,6 @@
 #include <time.h>
 #include<stdio.h>
 /**
- * More headers goes there
  * Main - main entry
  * Return: always return a 0 (success)
  * betty style doc for function main goes there
