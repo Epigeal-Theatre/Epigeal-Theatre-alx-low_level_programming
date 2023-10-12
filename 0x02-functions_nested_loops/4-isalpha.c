@@ -1,8 +1,7 @@
 #include "main.h"
 /**
  * _isalpha - int w Write a function that checks for alphabetic character.
- * @c: The charceter
- * w - int w
+ * @w: - int w is character w
  * Return: 1
  */
 
