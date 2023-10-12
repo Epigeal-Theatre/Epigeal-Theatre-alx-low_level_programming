@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
- * main - run a check.
+ * main - run my code.
  * Return:  0.
  */
 
