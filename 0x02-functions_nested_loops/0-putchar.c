@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * main - this program prints _putchar followed by a newline
  * Return: 0 (success)
@@ -6,8 +6,15 @@
 
 int main(void)
 {
-	char str[] = "_putchar";
-		printf(str);
-		printf('\n');
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 return (0);
 }
