@@ -1,10 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main - print numbers from 1 to 100, followed by a new line
- * but for multiples of three prints Fizz 
- * for multiples of five print Buzz
- * Return:  0 (Success)
+ * main - print no 1 to 100, followed by  new line
+ * print fizz for multiples of 3 and buzz for multiples of 5
+ * Return: 0 (Success)
  */
 int main(void)
 {
