@@ -52,9 +52,7 @@ int main(int argc, char *argv[])
 	}
 
 	printf("%02hhx ", arr[x]);
-
 	}
-
 	return (0);
 }
 
