@@ -2,14 +2,13 @@
 #include <stdarg.h>
 
 /**
-* sum_them_all - return the sum of parameters 
+* sum_them_all - return the sum of parameters
 *
 * @n: no. of passed parameters
 *
 * @...: parameters for which we must calc the sum
 *
 * Return: sum of parameters or 0 If n == 0
-*         
 */
 
 int sum_them_all(const unsigned int n, ...)
