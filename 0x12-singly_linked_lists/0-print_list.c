@@ -10,11 +10,9 @@
  * Return: how many nodes we printed
  */
 
-/*size_t print_list(const list_t *h)
+size_t print_list(const list_t *h)
 {
-	size_t;
-
-	s = 0;
+	size_t nodenumber = 0;
 
 	while (h)
 
@@ -25,9 +23,9 @@
 	else
 	printf("[%u] %s\n", h->len, h->str);
 	h = h->next;
-	s++;
+	nodenumber++;
 	}
 
 
-	return (s);
+	return (nodenumber);
 }
