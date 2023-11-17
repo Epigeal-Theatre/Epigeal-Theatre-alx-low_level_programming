@@ -10,7 +10,7 @@
  * Return: how many elements do we have in in h?
  */
 
-size_t list_len(const list_t *h)
+/*size_t list_len(const list_t *h)
 {
 	size_t x = 0;
 
