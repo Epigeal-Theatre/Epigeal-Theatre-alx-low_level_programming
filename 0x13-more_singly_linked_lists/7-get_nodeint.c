@@ -5,7 +5,7 @@
  * ...specified index in a linked list
  *
  * @head: first node in our ll
- * 
+ *
  * @index: specified index
  *
  * Return: pointer to the node or NULL if unssuccessful
