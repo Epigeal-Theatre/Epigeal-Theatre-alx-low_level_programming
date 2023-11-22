@@ -5,7 +5,7 @@
  *
  * @h: linked listtype listint_t
  *
- * Return: how many nodes?
+ * Return: how many nodes
  */
 
 size_t print_listint(const listint_t *h)
