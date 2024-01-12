@@ -2,7 +2,7 @@
 
 /**
  * delete_dnodeint_at_index - this func deletes
- * 	node at index of a dlistint_t ll
+ *node at index of a dlistint_t ll
  *
  * @head: head of the list
  *
