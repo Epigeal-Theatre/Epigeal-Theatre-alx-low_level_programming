@@ -84,3 +84,10 @@ Further Resources:
 GNU Make documentation: https://www.gnu.org/software/make/manual/make.html
 Tutorialspoint Makefile Tutorial: https://www.tutorialspoint.com/makefile/index.htm
 "Managing Projects with GNU Make" by Robert Mecklenburg.
+
+
+
+Abdelrahman Metawei — 03/20/2024 8:29 PM
+heyy everyone, I came accross this 1-hour video that explains literally everything
+about make and Makefiles comprehensively so I thought about sharing it 🙂
+https://www.youtube.com/watch?v=DtGrdB8wQ_8
