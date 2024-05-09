@@ -9,7 +9,7 @@
  *
  * @size: size of the array.
  *
- * @val: value to search.
+ * @value: val to search.
  *
  * Return: index of the number.
  */
